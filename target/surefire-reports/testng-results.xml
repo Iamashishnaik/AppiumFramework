@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="142576" started-at="2020-09-27T04:02:19Z" finished-at="2020-09-27T04:04:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="142576" started-at="2020-09-27T04:02:19Z" finished-at="2020-09-27T04:04:42Z">
+      <class name="practise.AppiumFramework.ecommerce_tc_4">
+        <test-method status="PASS" signature="killAllnodes()[pri:0, instance:practise.AppiumFramework.ecommerce_tc_4@96def03]" name="killAllnodes" is-config="true" duration-ms="5016" started-at="2020-09-27T09:32:19Z" finished-at="2020-09-27T09:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllnodes -->
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.ecommerce_tc_4@96def03]" name="totalValidation" duration-ms="51735" started-at="2020-09-27T09:32:24Z" data-provider="inputData" finished-at="2020-09-27T09:33:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:practise.AppiumFramework.ecommerce_tc_4@96def03]" name="totalValidation" duration-ms="49558" started-at="2020-09-27T09:33:16Z" data-provider="inputData" finished-at="2020-09-27T09:34:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashish]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- practise.AppiumFramework.ecommerce_tc_4 -->
+      <class name="practise.AppiumFramework.ApiDemoTest">
+        <test-method status="PASS" signature="apiDemo()[pri:0, instance:practise.AppiumFramework.ApiDemoTest@5ccddd20]" name="apiDemo" duration-ms="36237" started-at="2020-09-27T09:34:05Z" finished-at="2020-09-27T09:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+      </class> <!-- practise.AppiumFramework.ApiDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
